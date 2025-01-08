@@ -9,7 +9,7 @@ Despues me he ido al apartado de ***Terminal*** y he abierto el terminal de GITB
 
 > git init
 
-![alt text](<Captura 1.jpg>)
+![alt text](<capturas/Captura 1.jpg>)
 
 ---
 
@@ -19,13 +19,13 @@ He creado un nuevo repositortio en *GitHub* y lo he conectado con el repositorio
 
 > git remote add origin *(enlace del repositorio de GitHub)*
 
-![alt text](<captura 2a.jpg>)
+![alt text](<capturas/captura 2a.jpg>)
 
 Y lo siguente a sido verificar si la conexión se habia establecido correctamente mediante el comando:
 
 >git remote -v
 
-![alt text](<captura 2b.jpg>)
+![alt text](<capturas/captura 2b.jpg>)
 
 ---
 
@@ -43,9 +43,9 @@ Y hemos subido los cambios al repositorio de *GitHub*:
 
 >git push --set-upstream origin master
 
-![alt text](<captura 3.jpg>)
+![alt text](<capturas/captura 3.jpg>)
 
-![alt text](<captura 3b.jpg>)
+![alt text](<capturas/captura 3b.jpg>)
 
 ---
 
@@ -65,7 +65,7 @@ He realizado cambios en el *fichero1.js* y lo he añadido y hecho un commit a lo
 
 > git push --set-upstream origin development
 
-![alt text](Captura4.jpg)
+![alt text](capturas/Captura4.jpg)
 
 ---
 
@@ -83,6 +83,6 @@ Y he finalizado haciendo un push con todos los cambios al repositorio de *GitHub
 
 > git push
 
-![alt text](Captura5.jpg)
+![alt text](capturas/Captura5.jpg)
 
 ---
