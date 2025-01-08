@@ -49,7 +49,7 @@ Y hemos subido los cambios al repositorio de *GitHub*:
 
 ---
 
-### 4. **Crear una rama**
+## 4. **Crear una rama**
 
 Lo siguiente a sido crear una nueva rama llamada "***development***" y cambiarnos a ella:
 
